@@ -9,9 +9,9 @@ It addresses the hesitancy towards vaccines 💉 🩺 and the role of social nor
 
 Authors:  👩🏻‍💼 Trang Ton, 🙎🏼‍♂️ Niklas Brock,  👩🏻‍💼 Farida Mammadli
 
-Stata source code:
+[Stata source code](VaccinationAttitude_Stata.do)
 
-Survey link: 
+[Paper and survey description](VaccinationAttitudes.pdf)
 
 ### 1. Procedure
 
