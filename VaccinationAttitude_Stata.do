@@ -1,19 +1,16 @@
- *                          Social Norm Seminar
- *                            Winter 2021/22
- *                      Suppevior: Matthias Mayer 
- *                     Group 2: Vaccination Attitude
-					
+
+ *                      Suppevior: Matthias Mayer 					
 clear
 clear matrix
 capture log close
 
-//cd "/Users/tonnunhatrang/Desktop/Seminar_Social norms/Submitted files" // change working directory if required
+//cd "working directory"
 
 log using "Socialnormseminar.log", replace
 
 *****************************************
 
-use "Combine 3 treatments.dta"
+use "Data File"
 
 *** Data description
 asdoc sum scale_5c c1 c2 c3 c4 c5 Age ibn.Gender ibn.Marriage ibn.Children
