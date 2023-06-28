@@ -32,6 +32,7 @@ The study uses the 5C vaccination scale, which includes Confidence, Complacency,
 ### 2. Data description
 
 ![](assets/StatDescription.png)
+
 *Table 1: Descriptive Statistics*
 
 There are a total of 1240 responses: 
